@@ -1,4 +1,4 @@
-from task1 import Node, insert
+from node import Node, insert
 
 def find_min(root):
     if root is None:
